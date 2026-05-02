@@ -1,10 +1,11 @@
 {
     "name": "pxt-nezha2",
     "version": "1.2.3",
-    "description": "The micro:bit extension board Nezha2 with RJ11 connection port by ELECFREAKS Co.ltd",
+    "description": "RobotixCAL — Bundle d'extensions micro:bit (Nezha 2 + PlanetX) avec blocs traduits en français pour l'enseignement. Basé sur les extensions ELECFREAKS.",
     "license": "MIT",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "PlanetX": "github:garrylou/RobotixCAL-PlanetX#v1.6.3-fr"
     },
     "files": [
         "README.md",
